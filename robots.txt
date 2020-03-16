@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xeequeugha.sebastian-grosse.de/sitemap.xml
